@@ -1,0 +1,36 @@
+.navbar navbar-expand-lg navbar-light bg-light{
+    position: sticky;
+}
+
+.bg-light {
+    background: rgba(0, 0, 0, 0.7) url(https://images.pexels.com/photos/290386/pexels-photo-290386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-blend-mode:darken ;
+}
+
+.navbar-light .navbar-brand {
+    color: #ffffff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color: #ffffff;
+}
+
+.navbar-light .navbar-nav .nav-link.disabled {
+    color: #ffffff;
+}
+
+.dropdown-menu{
+    background: transparent;
+}
+
+.btn-outline-success {
+   border-color: #ced4da;
+    color: #f8f9fa;
+
+}
+
