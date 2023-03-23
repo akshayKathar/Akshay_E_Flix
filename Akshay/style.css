@@ -3,9 +3,10 @@
 }
 
 .bg-light {
-    background: rgba(0, 0, 0, 0.7) url(https://images.pexels.com/photos/290386/pexels-photo-290386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background: rgba(0, 0, 0, 0.795) url(https://images.pexels.com/photos/290386/pexels-photo-290386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     background-size: cover;
     background-blend-mode:darken ;
+
 }
 
 .navbar-light .navbar-brand {
@@ -33,4 +34,3 @@
     color: #f8f9fa;
 
 }
-
